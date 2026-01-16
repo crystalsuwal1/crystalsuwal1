@@ -1,16 +1,26 @@
-## Hi there 👋
+#Crystal
 
-<!--
-**crystalsuwal1/crystalsuwal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computing student | Python learner | Building a GitHub portfolio
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Summary
+I’m developing my programming skills through weekly Python practice and coursework projects.  
+This profile links to my module portfolio, including notebooks, a logbook, and project programs.
+
+# Technical skills
+•⁠  ⁠Python: conditions, loops, functions
+•⁠  ⁠Collections: lists, tuples, sets, dictionaries
+•⁠  ⁠Files: reading/writing text files
+•⁠  ⁠Command line basics: arguments and simple scripts
+•⁠  ⁠Git/GitHub: version control, commits, repository organisation
+
+# Coursework portfolio
+*Fundamentals of Computer Programming Portfolio*  
+https://github.com/crystalsuwal1/FCP_Portfolio.git
+
+# Project highlights
+•⁠  ⁠Pizza pricing calculator (4-for-3 discount rule + validation)
+•⁠  ⁠Password checker (minimum length + random character verification)
+
+## Contact
+•⁠  ⁠Email: scrystal24@tbc.edu.np
